@@ -1,0 +1,5 @@
+observer\Observer.class
+observer\ScoreDisplay.class
+observer\FootballScoreSystem.class
+observer\Subject.class
+observer\ScoreBoard.class
